@@ -4,6 +4,8 @@
 <!-- GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=AshutoshProjects&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+> ⚠️ Stats may take some time to reflect recent activity due to GitHub’s caching.
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.ashutoshprojects@gmail.com) 
 
